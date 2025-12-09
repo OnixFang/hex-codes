@@ -1,27 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Shiny Patch Parsed</title>
-</head>
-
-<body>
-  <header>
-    <nav>
-      <ul>
-        <li><a href="/hex-codes/">Home</a></li>
-        <li><a href="/hex-codes/ips-logs/">IPS Logs</a></li>
-        <li><a href="/hex-codes/shiny-patch-parsed/">Shiny Patch Parsed</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <main>
-    <h1>shiny_patch_parsed.txt</h1>
-    <a href="/hex-codes/shiny-patch-parsed/shiny_patch_parsed.txt">Raw text file</a>
-    <pre>
 000041 34
 000051 23
 000059 42
@@ -50526,7 +50502,6 @@
 049342 2C
 049343 D1
 049344 CD
-
 049345 05
 049346 31
 049347 21
@@ -59708,8 +59683,3 @@
 0B4145 06
 0B4146 10
 0B4147 C9
-    </pre>
-  </main>
-</body>
-
-</html>
